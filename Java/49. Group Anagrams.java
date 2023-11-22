@@ -15,7 +15,6 @@ class Solution {
             char[] charArr = currentStr.toCharArray();
             Arrays.sort(charArr);
             String sortedStr = String.valueOf(charArr);
-            System.out.println(charArr);
             if (map.containsKey(sortedStr) == false) {
                 map.put(sortedStr, new ArrayList<>());
             }
