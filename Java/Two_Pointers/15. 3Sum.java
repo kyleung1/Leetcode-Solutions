@@ -1,4 +1,4 @@
-package Java;
+package Java.Two_Pointers;
 
 import java.util.Arrays;
 import java.util.LinkedList;

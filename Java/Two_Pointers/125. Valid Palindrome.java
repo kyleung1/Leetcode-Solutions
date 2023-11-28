@@ -1,4 +1,4 @@
-package Java;
+package Java.Two_Pointers;
 
 class Solution {
     public boolean isPalindrome(String s) {

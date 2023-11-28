@@ -1,4 +1,4 @@
-package Java;
+package Java.Linked_List;
 
 class Solution {
     //Definition for singly-linked list.

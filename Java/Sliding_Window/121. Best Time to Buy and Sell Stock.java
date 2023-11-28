@@ -1,4 +1,4 @@
-package Java;
+package Java.Sliding_Window;
 
 class Solution {
     public int maxProfit(int[] prices) {

@@ -1,4 +1,4 @@
-package Java;
+package Java.Trees;
 
 class Solution {
     //    Definition for a binary tree node.

@@ -1,4 +1,4 @@
-package Java;
+package Java.Arrays_Hashing;
 
 class Solution {
     public boolean isAnagram(String s, String t) {
